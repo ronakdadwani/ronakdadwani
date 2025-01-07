@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://www.brunobrito.net.br">
-    <img src="https://github.com/ronakdadwani/ronakdadwani/blob/main/banner1.png" alt="Blog" />
+    <img src="https://github.com/ronakdadwani/ronakdadwani/blob/main/linkedin%20banner%20for%20web%20developer.png" alt="Blog" />
   </a>
 </p>
 

@@ -10,7 +10,7 @@
 </p>
 Nice to meet you, my name is Ronak Dadwani and I believe in well done crafted software.
 <br><br>
-# Welcome to My Portfolio! 👋
+<b> Welcome to My Portfolio!</b> 👋
 
 I’m currently working on a **Portfolio Project** to showcase my skills, creativity, and accomplishments as a web developer. This project highlights my expertise in HTML , CSS , JavaScript and  frontend design, while reflecting my journey and growth in coding and development.
 

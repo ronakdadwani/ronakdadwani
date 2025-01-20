@@ -12,7 +12,7 @@ Nice to meet you, my name is Ronak Dadwani and I believe in well done crafted so
 <br><br>
 <b> Welcome to My Portfolio!</b> 👋
 
-I’m currently working on a **End-end Project like UBER** to showcase my skills, creativity, and accomplishments as a web developer. This project highlights my expertise in HTML , CSS , JavaScript and  frontend design, while reflecting my journey and growth in coding and development.
+I’m currently working on a **End-end Project like UBER** to showcase my skills, creativity, and accomplishments as a web developer. This project highlights my expertise in <b> HTML , CSS , JavaScript and  frontend design,<b/> while reflecting my journey and growth in coding and development.
 
 ### 🌟 Collaboration Opportunities  
 I’m looking to connect with like-minded developers, designers, and tech enthusiasts who share a passion for creating innovative web solutions. Let’s leverage our collective skills to build impactful projects and learn from each other!

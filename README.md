@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Ronak+Dadwani;Software Designer+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6;Software+Developer;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
+     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Ronak+Dadwani;Software+Designer+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6;Software+Developer;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
  
 </p>
 Nice to meet you, my name is Ronak Dadwani and I believe in well done crafted software.

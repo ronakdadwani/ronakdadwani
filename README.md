@@ -1,53 +1,54 @@
-<p align="center">
- <a href="#">
-    <img src="https://github.com/ronakdadwani/ronakdadwani/blob/main/linkedin%20banner%20for%20web%20developer.png" alt="Blog" />
-  </a>
-</p>
+# 👋 Hi, I'm Ronak Dadwani
 
-<p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Ronak+Dadwani;Software+Designer+👨‍💻;Software+Developer+👨‍💻;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
- 
-</p>
-Nice to meet you, my name is Ronak Dadwani and I believe in well done crafted software.
-<br><br>
-<b> Welcome to My Portfolio!</b> 👋
+> I believe in **well-crafted software** that not only works but creates meaningful impact.
 
-### 🌟 Collaboration Opportunities  
-I’m looking to connect with like-minded developers, designers, and tech enthusiasts who share a passion for creating innovative web solutions. Let’s leverage our collective skills to build impactful projects and learn from each other!
+Welcome to **my portfolio**!  
+I'm passionate about building clean, efficient, and scalable web applications with a focus on both **frontend aesthetics** and **backend robustness**.
 
-### 🚀 Areas Where I Seek Help  
-I’m eager to enhance my knowledge in:
-- Advanced React concepts.
-- Optimizing project performance.
-- Implementing best practices in full-stack development using the **MERN stack**.
+---
 
-Your guidance or collaboration in these areas would be greatly appreciated!
+## 🌟 Collaboration Opportunities
 
-### 📚 What I’m Learning  
-To strengthen my backend development skills and build scalable web applications, I’m diving into:
-- **Node.js**  
-- **Express.js**  
-- **MongoDB**  
-- **MySQL**  
-</p>
+I'm actively looking to connect with **developers**, **designers**, and **tech enthusiasts** who share a love for innovation and problem-solving.  
+Let’s collaborate on exciting projects, learn together, and push each other to grow!
 
-# Let's connect? 🤝
+---
 
-<p align="center">
-  <a href="https://github.com/ronakdadwani">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunobritodev" alt="GitHub badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/ronakdadwani/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunobritodev/" alt="LinkedIn" />
-  </a>
-</p>
-# Languages & Tools 🛠
+## 🚀 Areas I’m Exploring & Seeking Guidance
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&color=green)&nbsp;
-![tailwindcss](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&color=green)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&color=green)&nbsp;
-![OperatingSystem](https://img.shields.io/badge/-OperatingSystem-05122A?style=flat&color=green)&nbsp;
+I'm currently focused on becoming a more well-rounded full-stack developer. I’d love help or insights in:
 
-![Express.JS](https://img.shields.io/badge/-Express.JS-05122A?style=flat&color=orange)&nbsp;
-![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=orange)&nbsp;
-![sql](https://img.shields.io/badge/-sql-05122A?style=flat&color=orange)&nbsp;![mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&color=orange)&nbsp;![postgre](https://img.shields.io/badge/-postgre-05122A?style=flat&color=orange)&nbsp;![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&color=orange)&nbsp;
+- 🌱 Advanced React concepts & architecture  
+- ⚡ Project performance optimization  
+- 💡 Full-stack best practices with the **MERN stack**
+
+If you have experience or resources in these areas, I’d be grateful to connect!
+
+---
+
+## 📚 Currently Learning
+
+To level up my backend development skills, I’m diving deep into:
+
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **MySQL**
+
+My goal is to design and deploy scalable, secure, and high-performance web applications.
+
+---
+
+## 🤝 Let’s Connect
+
+I'm always open to tech talks, mentorship, feedback, or potential opportunities.
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronakdadwani)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronakdadwani)
+
+---
+
+## 🛠 Languages & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
+![Tailwind CSS](https://img.shields.io/b

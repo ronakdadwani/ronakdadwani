@@ -1,21 +1,21 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100" />
   <h1>
-    Hi there, I'm [Your Name]! 👋
+    Hi there, I'm Ronak Dadwani! 👋
   </h1>
 </div>
 
 <div align="center">
   <p>
-    I'm a passionate <strong>Software Developer</strong> from [Your City, Country] with a knack for building robust and scalable web applications. I love turning complex problems into simple, elegant, and efficient solutions.
+    I'm a passionate <strong>Software Developer</strong> from Hyderabad, India with a knack for building robust and scalable web applications. I love turning complex problems into simple, elegant, and efficient solutions.
   </p>
   <p>
-    - 🔭 I’m currently working on a cool project involving [Mention a Technology or Project]. <br>
-    - 🌱 I’m currently learning [Mention a new skill or framework, e.g., Go, Rust, or Qwik]. <br>
-    - 👯 I’m looking to collaborate on open-source projects related to [Your Interests, e.g., FinTech, AI, etc.]. <br>
-    - 📫 How to reach me: [Your Email Address] or through my LinkedIn profile. <br>
-    - 😄 Pronouns: [He/Him, She/Her, They/Them, etc.] <br>
-    - ⚡ Fun fact: [A fun fact about you, e.g., I can solve a Rubik's cube in under a minute!]
+    - 🌱 I’m currently learning how to build autonomous AI agents and create intelligent automation workflows. <br>
+    - 🔭 I’m currently building an <strong>AI payroll automation web application</strong> and a <strong>conversational AI chatbot</strong>. <br>
+<!--     - 👯 I’m looking to collaborate on open-source projects related to [Your Interests, e.g., FinTech, AI, etc.]. <br> -->
+    - 📫 How to reach me: dadwanironak456@gmail.com or through my LinkedIn profile. <br>
+<!--     - 😄 Pronouns: [He/Him, She/Her, They/Them, etc.] <br> -->
+    - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
   </p>
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
   <h3>Let's Connect!</h3>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/ronakdadwani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
